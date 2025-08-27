@@ -5,7 +5,7 @@
 **IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2025**
 
 <div align="center">
-  <img src="resource/ACR_Net.png" alt="ACR-Net Overview" width="420"/>
+  <img src="figures/ACR_Net.png" alt="ACR-Net Overview" width="420"/>
 </div>
 </div>
 
