@@ -34,7 +34,7 @@ Hyperspectral unmixing (HU) aims to resolve the prevalent issue of mixed pixels 
 
 ## 📣 News
 
-* 🔜 **Code will be released soon.** (代码将很快 release)
+* 🔜 **Code will be released soon.**
 
 ---
 
