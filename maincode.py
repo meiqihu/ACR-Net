@@ -283,7 +283,7 @@ def maincode_paviaU_Dataset(args, save_file=False):
 if __name__ == '__main__':
     """-----------Real dataset------"""
     os.environ['CUDA_VISIBLE_DEVICES'] = '0'
-    data_path = ''
+    data_path = '' # !!! replace it with your data_path 
     Avg_SAD, Avg_mse = [], []
     SNR = ['0db']
     num_runs = 1
