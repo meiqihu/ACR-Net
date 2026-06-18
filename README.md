@@ -32,9 +32,13 @@ Hyperspectral unmixing (HU) aims to resolve the prevalent issue of mixed pixels 
 
 ---
 
-## 📣 News
+## 📣Datasets
+To fully evaluate the performance of the proposed method, **three real-world HU datasets** and **two synthesized datasets** are opted for a test. In addition, another **hyperspectral classification dataset (PaviaU datset)** has been used to testify the unmixing performance on the hyperspectral classification task. You can access the data by BaiduYun(Link: https://pan.baidu.com/s/17hD9xTXxaxZ1Jv7k7LRG8Q?pwd=4i2q code: 4i2q) or Goggle drive (https://drive.google.com/drive/folders/1s2u-mo54KKzlACpU9dfX10CQr2dhiDML?usp=drive_link).
+<div align="center">
+  <img src="figures/dataset.png" alt="dataset Overview" width="420"/>
+</div>
+</div>
 
-* 🔜 **Code will be released soon.**
 
 ---
 
