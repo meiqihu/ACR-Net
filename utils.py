@@ -271,7 +271,7 @@ def get_sample(dataset, data_path):
     elif dataset=='paviaU':
         num_em = 7
         C, H, W = 103, 610, 340
-        name = 'paviaU_unmixing7_.mat'
+        name = 'paviaU_unmixing7.mat'
 
     data_file = data_path + name
     return data_file, C,H, W, num_em
